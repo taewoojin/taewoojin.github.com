@@ -251,3 +251,10 @@ input[data-function*='swipe']:checked ~ .sidebar {
 
   }
 }
+/* ------------ Sidebar Style -------------- */
+.post-title {
+    a {
+        font-size:22px;
+        color: #308bd8;
+    }
+}

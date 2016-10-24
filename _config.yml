@@ -1,20 +1,23 @@
 # Site settings
 title: Your awesome title
-email: your-email@domain.com
+email: qkqnrpa@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: First, Let's start anything.
 
 # Social icons
-facebook: username
+facebook: jintaewoo
 linkedin: username
-github: username
+github: taewoojin
 deviantart: username
 codepen: username
 
-footer: © Taken theme
-
 # Build settings
 markdown: kramdown
+
+# paginate: 10
+
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
