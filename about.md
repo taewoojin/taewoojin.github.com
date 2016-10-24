@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Taken is a two column minimalist Jekyll theme.
+매일 공부한 내용을 정리해보려고 시작한 개인 블로그입니다.  
+python, swift, 알고리즘 등 IT에 대한 내용을 다룰 생각입니다.    
 
-Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
+혼자 공부하기 위해 시작했지만, 한분에게라도 도움이 되면 좋겠습니다. ^^
 
-You can fork taken from [here.](https://github.com/vfalanis/taken)
+모두 초보 탈출을 위해 파이팅~ d:D
