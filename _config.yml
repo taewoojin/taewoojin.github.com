@@ -17,6 +17,7 @@ codepen: username
 # Build settings
 markdown: kramdown
 
+footer: email - qkqnrpa@gmail.com
 # paginate: 10
 
 encoding:     "utf-8"
